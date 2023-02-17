@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="24.613453">
+<testcase classname="Login Functionality" name="Enter Username and Password" time="24.613453">
+<system-out><![CDATA[Given I want to go on Uplers................................................passed
+When I verify the Email id and Password are displayed.......................passed
+Then I enter the Email id and Password......................................passed
+And I click on Login Button.................................................passed
+And I verify HomePage Header Text...........................................passed
+And I click on Profile Link.................................................passed
+And I verify "Personal Details" section.....................................passed
+And I click on Personal Details link........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
